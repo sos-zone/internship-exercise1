@@ -30,6 +30,6 @@ List of tasks:
 5. Apply [Bootstrap][get_bootstrap] to your HTML page by using simplest Jumbotron template - put your three latest achievements in three example columns. 
 6. Commit your changes with a meaningful commit message.
 7. Push your changes from your local computer to your GitHub repository. If you do not know how to do it, please refer to [Git SCM page][git_working_with_remotes]. 
-8. Send a pull request to goodylabs/internship-excercise1. This point is not mandatory, however it might speed up the verification process :) If you do not know how to do it, [this][git_github_contributing_to_a_project] might help here.
+8. Send a pull request to itq-development/internship-excercise1. This point is not mandatory, however it might speed up the verification process :) If you do not know how to do it, [this][git_github_contributing_to_a_project] might help here.
 
 You're done ;)
